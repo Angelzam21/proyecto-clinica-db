@@ -20,7 +20,7 @@ Hay que seguir **en orden**. los siguientes pasos para que funcione.
 
 ¡Listo!
 
-### 3. ¿Cómo verifico que se poblaron correctamente las tablas?
+### 3. VERIFICANDO QUE SE POBLARON CORRECTAMENTE
 Ejecuta el script **`ChequeoTablas.sql`**. Este comando te mostrará una lista de todas las tablas y la cantidad de registros en cada una.
 
 ### 4. REINICIANDO TODO
